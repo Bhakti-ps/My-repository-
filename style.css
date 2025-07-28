@@ -9,7 +9,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, sans-serif;
     color: #333;
-    background: url("assets/img13.jpg") no-repeat center center fixed; 
+    background: url("img13.jpg") no-repeat center center fixed; 
     background-size: cover; /* Cover the whole screen */
     line-height: 1.6;
 }
