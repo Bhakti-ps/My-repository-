@@ -9,7 +9,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, sans-serif;
     color: #fff; /* makes text more readable */
-    background: url("My-repository-/img13.jpg") no-repeat center center fixed;
+    background: url("/My-repository-/img13.jpg") no-repeat center center fixed;
     background-size: cover;
     margin: 0;
     padding: 0;
@@ -276,6 +276,7 @@ form button:hover {
         padding: 0.5rem 1rem;
     }
 }
+
 
 
 
